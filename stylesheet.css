@@ -1,0 +1,19 @@
+body {
+    background-color: darkslategrey;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+/* make all links white */
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: white;
+}
+a:active {
+    color: white;
+}
